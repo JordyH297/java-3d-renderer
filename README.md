@@ -1,1 +1,1 @@
-Work in progress
+The intent of this project is to build a 3D graphics engine without any external libraries using only Java (and most likely JNI + some C).
